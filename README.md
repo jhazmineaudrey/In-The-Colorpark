@@ -13,6 +13,9 @@ This site was made for me to learn some more JavaScript logic, and get more used
 **III. Simple Data Storage**
 - The website is able to remember your highest streak count (only in local storage at the moment - will be implemented once I learn backend!)
 
+**IV. Responsive Design**
+- This game/website is runnable and playable on almost all devices.
+
 ## How to Run
 1. Go to [this](https://jhazmineaudrey.github.io/In-The-Colorpark) link, no need to install anything on your device.
 2. Select a given Difficulty.
