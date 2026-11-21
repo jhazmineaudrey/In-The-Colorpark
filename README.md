@@ -1,6 +1,8 @@
 # In-The-Color-Park
 A simple website about guessing the color based on the given hexcode that allows someone to somewhat understand/learn hexcodes, solely developed by Jazz. Inspired by Branko Stancevic's website made in CodePen (link is [here](https://codepen.io/landb/pen/bxVGVp)!)
 
+This site was made for me to learn some more JavaScript logic, and get more used to the usage of Tailwind! Also mainly because I've been wanting to make a website game rather than a game in Godot, and I think this is a pretty cool simple game to get started on :]
+
 ## Features
 **I. Difficulty Picker**
 - Allows you to pick between the Easy, Medium, and Hard difficulties.
