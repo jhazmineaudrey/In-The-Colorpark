@@ -12,7 +12,7 @@ A simple website about guessing the color based on the given hexcode that allows
 - The website is able to remember your highest streak count (only in local storage at the moment - will be implemented once I learn backend!)
 
 ## How to Run
-1. Go to [this](https://github.com/jhazmineaudrey/In-the-Colorpark) link, no need to install anything on your device.
+1. Go to [this](https://jhazmineaudrey.github.io/In-The-Colorpark) link, no need to install anything on your device.
 2. Select a given Difficulty.
 3. Guess the given hexcode's color from the given options (varies for each difficulty).
 4. Feel free to check the information button to see how hexcodes work in order to better guess.
